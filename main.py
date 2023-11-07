@@ -1,4 +1,9 @@
-def swapping():
+def swap():
     pass
 
-swapping()
+swap()
+
+def sum():
+    pass
+
+sum()
