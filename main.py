@@ -7,3 +7,8 @@ def sum():
     pass
 
 sum()
+
+def minus():
+    pass
+
+minus()
