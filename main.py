@@ -1,0 +1,4 @@
+def swapping():
+    pass
+
+swapping()
