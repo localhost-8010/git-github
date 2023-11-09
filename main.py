@@ -12,3 +12,6 @@ def minus():
     pass
 
 minus()
+
+def somethingShit():
+    print("niggobolz")
