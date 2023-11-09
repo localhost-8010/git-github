@@ -14,4 +14,4 @@ def minus():
 minus()
 
 def somethingShit():
-    print("niggobolz")
+    print("niggobolz 12323")
